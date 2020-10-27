@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# here is the list of my favorite anime:
+- naruto
+- bleach
+- one piece 
